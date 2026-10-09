@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Band - Luxury Orchestral & VIP Live Music CMS",
+  "description": "Exclusive live symphony orchestra and royal band for palace celebrations, luxury destination weddings, and VIP galas with no-code CMS admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
